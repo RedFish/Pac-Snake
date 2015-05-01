@@ -1,0 +1,15 @@
+c:\users\bogy\documents\visual studio 2010\Projects\Pac-Snake\Pac-Snake\bin\WindowsGL\Debug\SDL.dll
+c:\users\bogy\documents\visual studio 2010\Projects\Pac-Snake\Pac-Snake\bin\WindowsGL\Debug\Pac-Snake.exe
+c:\users\bogy\documents\visual studio 2010\Projects\Pac-Snake\Pac-Snake\bin\WindowsGL\Debug\Pac-Snake.pdb
+c:\users\bogy\documents\visual studio 2010\Projects\Pac-Snake\Pac-Snake\bin\WindowsGL\Debug\Lidgren.Network.dll
+c:\users\bogy\documents\visual studio 2010\Projects\Pac-Snake\Pac-Snake\bin\WindowsGL\Debug\MonoGame.Framework.dll
+c:\users\bogy\documents\visual studio 2010\Projects\Pac-Snake\Pac-Snake\bin\WindowsGL\Debug\OpenTK.dll
+c:\users\bogy\documents\visual studio 2010\Projects\Pac-Snake\Pac-Snake\bin\WindowsGL\Debug\Tao.Sdl.dll
+c:\users\bogy\documents\visual studio 2010\Projects\Pac-Snake\Pac-Snake\obj\x86\Debug\Pac-Snake.exe
+c:\users\bogy\documents\visual studio 2010\Projects\Pac-Snake\Pac-Snake\obj\x86\Debug\Pac-Snake.pdb
+C:\Users\bogy\documents\visual studio 2010\Projects\Pac-Snake\Pac-Snake\bin\WindowsGL\Debug\Content\sprites.png
+C:\Users\bogy\documents\visual studio 2010\Projects\Pac-Snake\Pac-Snake\bin\WindowsGL\Debug\Content\background.png
+C:\Users\bogy\documents\visual studio 2010\Projects\Pac-Snake\Pac-Snake\bin\WindowsGL\Debug\Content\pacman_beginning.wav
+C:\Users\bogy\documents\visual studio 2010\Projects\Pac-Snake\Pac-Snake\bin\WindowsGL\Debug\Content\pacman_death.wav
+C:\Users\bogy\documents\visual studio 2010\Projects\Pac-Snake\Pac-Snake\bin\WindowsGL\Debug\Content\pacman_eatfruit.wav
+C:\Users\bogy\documents\visual studio 2010\Projects\Pac-Snake\Pac-Snake\bin\WindowsGL\Debug\Content\pacman_siren.wav
